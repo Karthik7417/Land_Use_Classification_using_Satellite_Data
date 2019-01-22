@@ -1,0 +1,9 @@
+venv/
+orig_dataset/
+test_set/
+output/
+train_set/
+.ipynb_checkpoints
+.idea/*
+.DS_Store
+.idea/workspace.xml
